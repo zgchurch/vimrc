@@ -10,7 +10,7 @@ set cursorline
 syntax on
 
 if has("gui_gtk2")
-    set guifont=Consolas\ 11
+    set guifont=Monospace\ 11
 elseif has("gui_macvim")
     set guifont=Monaco:h13.00
 elseif has("gui_win32")
