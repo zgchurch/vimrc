@@ -1,6 +1,6 @@
 set autoindent
-set tabstop=4
-set shiftwidth=4
+set tabstop=2
+set shiftwidth=2
 set expandtab
 set hidden
 
@@ -22,7 +22,7 @@ set guioptions-=T
 " console dialogs
 set guioptions+=c
 
-colorscheme molokai
+colorscheme github
 
 filetype plugin indent on
 
