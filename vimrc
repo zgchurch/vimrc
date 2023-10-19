@@ -26,8 +26,7 @@ colorscheme github
 
 filetype plugin indent on
 
-map <Leader>r :CommandTFlush<CR>
-map <Leader>n :NERDTreeToggle<CR>
+command NT NERDTreeToggle
 
 " Backups & Files
 set backup                     " Enable creation of backup file.
